@@ -10,9 +10,9 @@ I'm an enthusiastic Fullstack Developer with an insatiable appetite for learning
 
 ## 🔧 Skills
 
-- Programming Languages: Javascript
-- Technologies & Tools: React, Express, EJS, OAuth, Passport, MongoDB, Firebase, HTML, CSS, Styled-components, Sass, Leaflet.js, RESTful,React Router, Vite, Mongoose, Cloundinary Image Api, Axios
-- Other Skills: Data Entry, Medical Terminology, Photoshop, Excel, National Incident Management
+• JavaScript | Java | Node | Express | React | Redux | Google Firebase | MongoDB | HTML | CSS | Sass | MaterialUI | Bootstrap |
+• Oauth | Passport | Git | Leaflet.js | Axios | EJS | jQuery | Styled-components | OOP | RESTful APIs | Linux |
+• Frontend | Backend | Full-Stack | Incident Management | Documentation | Scrum | Leadership 
 
 ## 🌱 I'm currently learning
 
