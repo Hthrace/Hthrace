@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile, I'm Hailey 👋
 
-I'm an enthusiastic Fullstack Developer with an insatiable appetite for learning, and a deep passion for collaborating with like-minded individuals to craft innovative and extraordinary creations.
+I'm an enthusiastic software developer with an insatiable appetite for learning, and a deep passion for collaborating with like-minded individuals to craft innovative and extraordinary creations.
 
 - ⚡ [Portfolio](https://hthrace.github.io/Portfolio/)
 
