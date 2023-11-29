@@ -6,7 +6,8 @@ I'm an enthusiastic Fullstack Developer with an insatiable appetite for learning
 
 ## 🚀 What I'm currently working on
 
-- [Lorville Clothing](https://github.com/Hthrace/LorvilleClothing) - E-commerce platform demostrating key technologies, including React, React Router, Firebase, Styled Components, and OAuth authentication.
+- [Lorville Clothing](https://github.com/Hthrace/LorvilleClothing) - E-commerce platform demostrating key technologies, including React, Redux, React Router, Firebase, Styled Components, and OAuth authentication.
+- [Citizen Syndicate](https://github.com/Hthrace/citizenSyndicate) - React based application Citizen Syndicate intends to address a crucial issue in Star Citizen the lack of in-game tools to easily locate items. Due to the active development of Star Citizen by Cloud Imperium Games (CIG), current game files no longer contain essential information about item locations, prices, and stats. This application is being devloped to be used as a internal tool for orgs to crowdsource information about said items while keeping cost of deployment down.
 
 ## 🔧 Skills
 
