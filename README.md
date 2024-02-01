@@ -2,7 +2,7 @@
 
 I'm an enthusiastic software developer with an insatiable appetite for learning, and a deep passion for collaborating with like-minded individuals to craft innovative and extraordinary creations.
 
-- ⚡ [Portfolio](https://hthrace.github.io/Portfolio/)
+- ⚡ [Portfolio](https://hthrace.github.io/portfolio/)
 
 ## 🚀 What I'm currently working on
 
