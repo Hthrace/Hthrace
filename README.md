@@ -9,19 +9,6 @@ I'm an enthusiastic software developer with an insatiable appetite for learning,
 - [Lorville Clothing](https://github.com/Hthrace/LorvilleClothing) - E-commerce platform demostrating key technologies, including React, Redux, React Router, Firebase, Styled Components, and OAuth authentication.
 - [Citizen Syndicate](https://github.com/Hthrace/citizenSyndicate) - React based application Citizen Syndicate intends to address a crucial issue in Star Citizen the lack of in-game tools to easily locate items. Due to the active development of Star Citizen by Cloud Imperium Games (CIG), current game files no longer contain essential information about item locations, prices, and stats. This application is being devloped to be used as a internal tool for orgs to crowdsource information about said items while keeping cost of deployment down.
 
-## 🔧 Skills
-
-• JavaScript | Java | Node | Express | React | Redux | Google Firebase | MongoDB | HTML | CSS | Sass | MaterialUI | Bootstrap |
-
-• Oauth | Passport | Git | Leaflet.js | Axios | EJS | jQuery | Styled-components | OOP | RESTful APIs | Linux |
-
-• Frontend | Backend | Full-Stack | Incident Management | Documentation | Scrum | Leadership 
-
-## 🌱 I'm currently learning
-
-- SQL
-- Payment Processing, Stripe
-
 ## 💬 Let's connect
 
 Feel free to reach out if you share similar interests or want to collaborate on something cool. I'm always open to meeting fellow developers and enthusiasts.
